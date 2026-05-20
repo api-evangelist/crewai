@@ -24,6 +24,10 @@ apis:
       - type: Documentation
         url: https://docs.crewai.com
 common:
+  - type: GitHubOrganization
+    url: https://github.com/crewAIInc
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/crewai-inc
   - type: Website
     url: https://www.crewai.com
   - type: Documentation
