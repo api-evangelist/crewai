@@ -3,7 +3,7 @@ name: CrewAI
 description: >-
   CrewAI is a framework for orchestrating role-playing autonomous AI agents that collaborate on complex tasks.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - AI Agents
   - AI Automation
