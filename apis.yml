@@ -32,7 +32,7 @@ common:
     url: https://www.crewai.com
   - type: Documentation
     url: https://docs.crewai.com
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://docs.crewai.com/llms.txt
 maintainers:
   - FN: Kin Lane
